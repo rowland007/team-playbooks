@@ -1,11 +1,34 @@
 # Welcome
 
-!!! abstract "Executive Overview"
-    This repository serves two purposes. One is to provide a structure and shell files to create further repositories without having to copy files or look for information. The second is to provide documentation on how to write and maintain documentation for those repos.
+!!! warning "Disclaimer"
+    This playbook and Plays are a copy & paste from [Atlassian](https://www.atlassian.com/team-playbook/plays). In their [FAQ](https://www.atlassian.com/team-playbook/plays#) it states, "Play instructions and content are free. Use them as much as you want and feel free to share these resources with others." I do not take credit for these plays and state that they are Copyright © 2022 Atlassian. I am saving these to this repo as an archive should Atlassian decide to remove the Plays.
 
-    Well-written documentation can make all the difference for a piece of software in terms of adoption, utilization, and maintainability. Most of the time it is dreaded and an afterthought due to time constraints. When possible, we should use the code is documentation principle. However, documentation may cover other aspects that are not highlighted in the code. For example build instructions, required dependacies, and enviromental variables. Additionaly, by providing guidance on how to write code and documentation, it keeps all developers on the same page and shared mental model. 
+## Build strong teams with Plays
 
-![image](static/images/main-image.jpg)
+Plays are free workshop resources for addressing common team challenges and starting important conversations.
 
-!!! attention "Documentation Requirement"
-    All repository documentation will be written with [MkDocs](https://www.mkdocs.org/) and utilize the [:logo:Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+## HOW TO USE PLAYS
+
+1. **Do the prepwork**  
+    Schedule a meeting and share materials.
+2. **Run the Play**  
+    Facilitate a conversation and gain team insights.
+3. **Leave with a Plan**  
+    Document insights and assign action items.
+
+Running Plays regularly [can help teams]("Link coming soon") work more effectively.
+
+## Plays are Built For
+
+- [X] Aligning on Project Goals
+- [X] Becoming an Agile Team
+- [X] Embracing Remote Teamwork
+- [X] Building Strong Relationships
+- [X] Clarifying Roles
+- [X] Change Management
+- [X] Creating Team Alignment
+- [X] Debriefing
+- [X] Maintaining a Healthy Culture
+- [X] Planning a Project
+- [X] Running Effective Meetings
+- [X] Understanding Your Customer
